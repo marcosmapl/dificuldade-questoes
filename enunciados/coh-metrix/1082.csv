@@ -1,0 +1,44 @@
+﻿,Group,Metric,Value
+4,Coesão Referencial,adj_arg_ovl,0.66667
+5,Coesão Referencial,adj_stem_ovl,0.66667
+6,Coesão Referencial,arg_ovl,0.5
+7,Coesão Referencial,stem_ovl,0.83333
+8,Coesão referencial,adjacent_refs,0.0
+9,Coesão referencial,anaphoric_refs,0.0
+10,Complexidade Sintática,words_before_main_verb,1.0
+11,Conectivos,add_neg_conn_ratio,0.0
+12,Conectivos,add_pos_conn_ratio,0.01724
+13,Conectivos,and_ratio,0.0
+14,Conectivos,cau_neg_conn_ratio,0.0
+15,Conectivos,cau_pos_conn_ratio,0.03448
+16,Conectivos,conn_ratio,0.06897
+17,Conectivos,if_ratio,0.0
+18,Conectivos,log_neg_conn_ratio,0.0
+19,Conectivos,log_pos_conn_ratio,0.05172
+20,Conectivos,logic_operators,0.05172
+21,Conectivos,negation_ratio,0.0
+22,Conectivos,tmp_neg_conn_ratio,0.0
+23,Conectivos,tmp_pos_conn_ratio,0.0
+24,Densidade de Padrões Sintáticos,mean_noun_phrase,4.98333
+25,Diversidade Lexical,ttr,0.75862
+26,Frequência de Palavras,cw_freq,145577.85294
+27,Frequência de Palavras,min_cw_freq,595.5
+28,Informações Morfossintáticas de Palavras,adjective_ratio,0.12069
+29,Informações Morfossintáticas de Palavras,adverbs,0.0
+30,Informações Morfossintáticas de Palavras,content_words,0.58621
+31,Informações Morfossintáticas de Palavras,function_words,0.41379
+32,Informações Morfossintáticas de Palavras,personal_pronouns,0.0
+33,Informações Morfossintáticas de Palavras,pronoun_ratio,0.05172
+34,Informações Morfossintáticas de Palavras,verbs,0.13793
+35,Informações Semânticas de Palavras,adjectives_ambiguity,3.0
+36,Informações Semânticas de Palavras,adverbs_ambiguity,0
+37,Informações Semânticas de Palavras,hypernyms_verbs,1.14286
+38,Informações Semânticas de Palavras,nouns_ambiguity,5.38889
+39,Informações Semânticas de Palavras,verbs_ambiguity,11.25
+40,Medidas Descritivas,paragraphs,1
+41,Medidas Descritivas,sentences,4
+42,Medidas Descritivas,sentences_per_paragraph,4.0
+43,Medidas Descritivas,syllables_per_content_word,2.85294
+44,Medidas Descritivas,words,58
+45,Medidas Descritivas,words_per_sentence,14.5
+46,Índices de leiturabilidade,flesch,43.03819

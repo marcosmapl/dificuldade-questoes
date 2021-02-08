@@ -1,0 +1,1 @@
+gerador de senhas simples laíza quer fazer uma senha para seu facebook e decide que a senha será formada apenas pelas posições ímpares do seu cpf. escreva um programa que leia número dígitos, correspondente ao cpf. como saída, imprima somente os dígitos das posições ímpares .

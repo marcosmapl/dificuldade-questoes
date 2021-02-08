@@ -1,0 +1,1 @@
+na figura abaixo, a área do triângulo é dada por: latex faça um programa que tenha como entrada: o raio r do polígono regular (número real) o número de lados n (inteiro) como saída, calcule e imprima a área a do triângulo, com duas casas decimais.

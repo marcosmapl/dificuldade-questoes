@@ -1,0 +1,44 @@
+﻿,Group,Metric,Value
+4,Coesão Referencial,adj_arg_ovl,5.0
+5,Coesão Referencial,adj_stem_ovl,9.0
+6,Coesão Referencial,arg_ovl,3.73333
+7,Coesão Referencial,stem_ovl,6.8
+8,Coesão referencial,adjacent_refs,0.8
+9,Coesão referencial,anaphoric_refs,0.8
+10,Complexidade Sintática,words_before_main_verb,2.33333
+11,Conectivos,add_neg_conn_ratio,0.00521
+12,Conectivos,add_pos_conn_ratio,0.01042
+13,Conectivos,and_ratio,0.01042
+14,Conectivos,cau_neg_conn_ratio,0.0
+15,Conectivos,cau_pos_conn_ratio,0.03125
+16,Conectivos,conn_ratio,0.04688
+17,Conectivos,if_ratio,0.01042
+18,Conectivos,log_neg_conn_ratio,0.0
+19,Conectivos,log_pos_conn_ratio,0.03125
+20,Conectivos,logic_operators,0.03646
+21,Conectivos,negation_ratio,0.0
+22,Conectivos,tmp_neg_conn_ratio,0.0
+23,Conectivos,tmp_pos_conn_ratio,0.0
+24,Densidade de Padrões Sintáticos,mean_noun_phrase,6.16667
+25,Diversidade Lexical,ttr,0.60591
+26,Frequência de Palavras,cw_freq,332697.61789
+27,Frequência de Palavras,min_cw_freq,996.66667
+28,Informações Morfossintáticas de Palavras,adjective_ratio,0.0625
+29,Informações Morfossintáticas de Palavras,adverbs,0.05208
+30,Informações Morfossintáticas de Palavras,content_words,0.64062
+31,Informações Morfossintáticas de Palavras,function_words,0.35938
+32,Informações Morfossintáticas de Palavras,personal_pronouns,0.00215
+33,Informações Morfossintáticas de Palavras,pronoun_ratio,0.01562
+34,Informações Morfossintáticas de Palavras,verbs,0.14062
+35,Informações Semânticas de Palavras,adjectives_ambiguity,2.33333
+36,Informações Semânticas de Palavras,adverbs_ambiguity,0.0
+37,Informações Semânticas de Palavras,hypernyms_verbs,0.80952
+38,Informações Semânticas de Palavras,nouns_ambiguity,2.86301
+39,Informações Semânticas de Palavras,verbs_ambiguity,6.77273
+40,Medidas Descritivas,paragraphs,1
+41,Medidas Descritivas,sentences,6
+42,Medidas Descritivas,sentences_per_paragraph,6.0
+43,Medidas Descritivas,syllables_per_content_word,2.37398
+44,Medidas Descritivas,words,192
+45,Medidas Descritivas,words_per_sentence,32.0
+46,Índices de leiturabilidade,flesch,50.68

@@ -1,0 +1,1 @@
+movimentando elementos de valor um escreva um programa que, a partir de um vetor de números inteiros informado pelo usuário, movimente todos os elementos de valor um para o final do vetor, mantendo a ordem original dos elementos diferentes de um. imprima o novo vetor.

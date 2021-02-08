@@ -1,0 +1,1 @@
+soma dos elementos fora da diagonal secundária escreva um programa que leia uma matriz quadrada formada por números reais - inicialmente é fornecido um inteiro indicando a dimensão da matriz e a matriz é fornecida linha a linha na sequência. como saída, imprima a soma dos elementos que estão fora da diagonal secundária.

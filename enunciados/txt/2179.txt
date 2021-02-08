@@ -1,0 +1,1 @@
+média dos elementos fora da diagonal principal escreva um programa que leia os elementos de uma matriz quadrada formada por números reais e imprima a média dos elementos que estão fora da diagonal principal, com até duas casas decimais de precisão.

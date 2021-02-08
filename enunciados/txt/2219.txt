@@ -1,0 +1,1 @@
+média dos elementos abaixo da diagonal principal escreva um programa que leia uma matriz quadrada formada por números reais. como saída, imprima a média dos elementos que estão abaixo da diagonal principal , com até duas casas decimais de precisão.

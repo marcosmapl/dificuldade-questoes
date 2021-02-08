@@ -1,0 +1,1 @@
+média euclidiana a média euclidiana é um dos vários métodos de se calcular uma média. a média euclidiana dos números reais positivos é dada por latex é dada por: latex faça um programa que tenha como entrada um vetor contendo latex números reais positivos. como saída , o programa deve imprimir o valor da média euclidiana com duas casas decimais .

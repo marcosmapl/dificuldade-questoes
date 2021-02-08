@@ -1,0 +1,1 @@
+menor elemento abaixo da diagonal principal escreva um programa que leia uma matriz quadrada formada por números reais. como saída, imprima o menor elemento que está abaixo da diagonal principal .

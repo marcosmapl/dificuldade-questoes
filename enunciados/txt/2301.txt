@@ -1,0 +1,1 @@
+lei dos cossenos considere a seguinte figura [wikipedia]: pela lei dos cossenos, latex faça um programa que tenha como entrada , nessa ordem: o lado latex . o lado latex . o angulo latex entre latex e latex (em graus). como saída , seu programa deverá imprimir, com duas casas decimais , o valor de latex .

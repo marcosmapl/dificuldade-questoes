@@ -1,0 +1,44 @@
+﻿,Group,Metric,Value
+4,Coesão Referencial,adj_arg_ovl,1.0
+5,Coesão Referencial,adj_stem_ovl,1.0
+6,Coesão Referencial,arg_ovl,1.6
+7,Coesão Referencial,stem_ovl,1.5
+8,Coesão referencial,adjacent_refs,0.0
+9,Coesão referencial,anaphoric_refs,0.0
+10,Complexidade Sintática,words_before_main_verb,1.2
+11,Conectivos,add_neg_conn_ratio,0.0
+12,Conectivos,add_pos_conn_ratio,0.025
+13,Conectivos,and_ratio,0.0125
+14,Conectivos,cau_neg_conn_ratio,0.0
+15,Conectivos,cau_pos_conn_ratio,0.025
+16,Conectivos,conn_ratio,0.0625
+17,Conectivos,if_ratio,0.0
+18,Conectivos,log_neg_conn_ratio,0.0
+19,Conectivos,log_pos_conn_ratio,0.05
+20,Conectivos,logic_operators,0.0625
+21,Conectivos,negation_ratio,0.0
+22,Conectivos,tmp_neg_conn_ratio,0.0
+23,Conectivos,tmp_pos_conn_ratio,0.0
+24,Densidade de Padrões Sintáticos,mean_noun_phrase,4.63333
+25,Diversidade Lexical,ttr,0.625
+26,Frequência de Palavras,cw_freq,85068.85
+27,Frequência de Palavras,min_cw_freq,4042.8
+28,Informações Morfossintáticas de Palavras,adjective_ratio,0.0625
+29,Informações Morfossintáticas de Palavras,adverbs,0.0
+30,Informações Morfossintáticas de Palavras,content_words,0.5
+31,Informações Morfossintáticas de Palavras,function_words,0.5
+32,Informações Morfossintáticas de Palavras,personal_pronouns,0.0
+33,Informações Morfossintáticas de Palavras,pronoun_ratio,0.075
+34,Informações Morfossintáticas de Palavras,verbs,0.1
+35,Informações Semânticas de Palavras,adjectives_ambiguity,3.4
+36,Informações Semânticas de Palavras,adverbs_ambiguity,0
+37,Informações Semânticas de Palavras,hypernyms_verbs,1.0
+38,Informações Semânticas de Palavras,nouns_ambiguity,5.42308
+39,Informações Semânticas de Palavras,verbs_ambiguity,9.28571
+40,Medidas Descritivas,paragraphs,1
+41,Medidas Descritivas,sentences,5
+42,Medidas Descritivas,sentences_per_paragraph,5.0
+43,Medidas Descritivas,syllables_per_content_word,2.55
+44,Medidas Descritivas,words,80
+45,Medidas Descritivas,words_per_sentence,16.0
+46,Índices de leiturabilidade,flesch,67.625

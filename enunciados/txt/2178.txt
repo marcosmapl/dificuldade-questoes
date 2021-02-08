@@ -1,0 +1,1 @@
+soma dos elementos fora da diagonal principal escreva um programa que leia uma matriz quadrada formada por números reais. como saída, imprima a soma dos elementos que estão fora da diagonal principal.

@@ -1,0 +1,1 @@
+função f considere a seguinte função f(x): latex faça um programa que leia o valor de x e retorne o valor de f(x) baseado na definição acima. imprima saída com número casas decimais (use a função round()).

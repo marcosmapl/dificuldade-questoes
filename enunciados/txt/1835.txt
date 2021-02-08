@@ -1,0 +1,1 @@
+período do pêndulo escreva um programa que leia o comprimento l (em metros) de um pêndulo. como saída, imprima o valor do período de oscilação (t) do pêndulo, expresso em segundos. ele é dado pela seguinte fórmula: adaptado de: hewitt, p. g. física conceitual. número . ed. porto alegre: bookman, número .

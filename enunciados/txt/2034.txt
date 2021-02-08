@@ -1,0 +1,1 @@
+número de jogadas escreva um programa que leia repetidamente o resultado do lançamento de um dado de seis faces: número , número , número , número , número ou número . como saída, o programa deve determinar quantas jogadas aconteceram até que a face número seja sorteada.

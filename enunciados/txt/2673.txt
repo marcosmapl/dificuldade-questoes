@@ -1,0 +1,1 @@
+na figura abaixo, o lado l do polígono regular é dado por: latex faça um programa que tenha como entrada: o raio r (número real) o número de lados n do polígono (inteiro) como saída, calcule e imprima o lado l , com duas casas decimais.

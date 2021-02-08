@@ -1,0 +1,1 @@
+equação de torricelli escreva um programa que leia a altura h (em metros) com que um objeto é solto do alto de um prédio. como saída, imprima o valor da velocidade v (em m s) do objeto ao tocar o solo, expressa pela seguinte equação: adaptado de: hewitt, p. g. física conceitual. número . ed. porto alegre: bookman, número .

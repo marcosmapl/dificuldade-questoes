@@ -1,0 +1,44 @@
+﻿,Group,Metric,Value
+4,Coesão Referencial,adj_arg_ovl,6.6
+5,Coesão Referencial,adj_stem_ovl,11.2
+6,Coesão Referencial,arg_ovl,5.4
+7,Coesão Referencial,stem_ovl,8.8
+8,Coesão referencial,adjacent_refs,0.2
+9,Coesão referencial,anaphoric_refs,0.2
+10,Complexidade Sintática,words_before_main_verb,2.16667
+11,Conectivos,add_neg_conn_ratio,0.0
+12,Conectivos,add_pos_conn_ratio,0.01639
+13,Conectivos,and_ratio,0.00546
+14,Conectivos,cau_neg_conn_ratio,0.0
+15,Conectivos,cau_pos_conn_ratio,0.03825
+16,Conectivos,conn_ratio,0.05464
+17,Conectivos,if_ratio,0.0
+18,Conectivos,log_neg_conn_ratio,0.0
+19,Conectivos,log_pos_conn_ratio,0.04372
+20,Conectivos,logic_operators,0.00546
+21,Conectivos,negation_ratio,0.0
+22,Conectivos,tmp_neg_conn_ratio,0.0
+23,Conectivos,tmp_pos_conn_ratio,0.01093
+24,Densidade de Padrões Sintáticos,mean_noun_phrase,4.98056
+25,Diversidade Lexical,ttr,0.57345
+26,Frequência de Palavras,cw_freq,212990.19658
+27,Frequência de Palavras,min_cw_freq,425.33333
+28,Informações Morfossintáticas de Palavras,adjective_ratio,0.10929
+29,Informações Morfossintáticas de Palavras,adverbs,0.02732
+30,Informações Morfossintáticas de Palavras,content_words,0.63934
+31,Informações Morfossintáticas de Palavras,function_words,0.36066
+32,Informações Morfossintáticas de Palavras,personal_pronouns,0.00226
+33,Informações Morfossintáticas de Palavras,pronoun_ratio,0.05464
+34,Informações Morfossintáticas de Palavras,verbs,0.14754
+35,Informações Semânticas de Palavras,adjectives_ambiguity,2.70588
+36,Informações Semânticas de Palavras,adverbs_ambiguity,2.0
+37,Informações Semânticas de Palavras,hypernyms_verbs,0.76
+38,Informações Semânticas de Palavras,nouns_ambiguity,3.92593
+39,Informações Semânticas de Palavras,verbs_ambiguity,8.84211
+40,Medidas Descritivas,paragraphs,1
+41,Medidas Descritivas,sentences,6
+42,Medidas Descritivas,sentences_per_paragraph,6.0
+43,Medidas Descritivas,syllables_per_content_word,2.48718
+44,Medidas Descritivas,words,183
+45,Medidas Descritivas,words_per_sentence,30.5
+46,Índices de leiturabilidade,flesch,45.44143

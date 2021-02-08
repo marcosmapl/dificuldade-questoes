@@ -1,0 +1,1 @@
+a empresa de ônibus tucuruí oferece três categorias de assentos: classe a BRL classe b BRL classe c BRL neste contexto, escreva um programa que leia a quantidade de bilhetes vendidos de cada classe. como saída, determine a renda total gerada pela venda dos bilhetes.

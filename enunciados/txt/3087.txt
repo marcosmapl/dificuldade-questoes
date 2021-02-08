@@ -1,0 +1,1 @@
+pares e ímpares - média escreva um programa que leia números inteiros diferentes de zero. a leitura dos números finaliza quando o usuário digitar o número número (zero) como saída, o programa deve imprimir, nesta ordem, a média apenas dos números pares digitados e a média apenas dos números ímpares digitados, com número casas decimais.

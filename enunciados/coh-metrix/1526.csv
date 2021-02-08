@@ -1,0 +1,44 @@
+﻿,Group,Metric,Value
+4,Coesão Referencial,adj_arg_ovl,1.375
+5,Coesão Referencial,adj_stem_ovl,1.625
+6,Coesão Referencial,arg_ovl,1.13889
+7,Coesão Referencial,stem_ovl,1.44444
+8,Coesão referencial,adjacent_refs,1.375
+9,Coesão referencial,anaphoric_refs,4.0
+10,Complexidade Sintática,words_before_main_verb,1.88889
+11,Conectivos,add_neg_conn_ratio,0.0
+12,Conectivos,add_pos_conn_ratio,0.01493
+13,Conectivos,and_ratio,0.00746
+14,Conectivos,cau_neg_conn_ratio,0.0
+15,Conectivos,cau_pos_conn_ratio,0.02985
+16,Conectivos,conn_ratio,0.04478
+17,Conectivos,if_ratio,0.0
+18,Conectivos,log_neg_conn_ratio,0.0
+19,Conectivos,log_pos_conn_ratio,0.02985
+20,Conectivos,logic_operators,0.00746
+21,Conectivos,negation_ratio,0.0
+22,Conectivos,tmp_neg_conn_ratio,0.0
+23,Conectivos,tmp_pos_conn_ratio,0.00746
+24,Densidade de Padrões Sintáticos,mean_noun_phrase,7.19444
+25,Diversidade Lexical,ttr,0.63514
+26,Frequência de Palavras,cw_freq,244101.16216
+27,Frequência de Palavras,min_cw_freq,398.55556
+28,Informações Morfossintáticas de Palavras,adjective_ratio,0.08209
+29,Informações Morfossintáticas de Palavras,adverbs,0.01493
+30,Informações Morfossintáticas de Palavras,content_words,0.55224
+31,Informações Morfossintáticas de Palavras,function_words,0.44776
+32,Informações Morfossintáticas de Palavras,personal_pronouns,0.02857
+33,Informações Morfossintáticas de Palavras,pronoun_ratio,0.10448
+34,Informações Morfossintáticas de Palavras,verbs,0.16418
+35,Informações Semânticas de Palavras,adjectives_ambiguity,3.88889
+36,Informações Semânticas de Palavras,adverbs_ambiguity,3.5
+37,Informações Semânticas de Palavras,hypernyms_verbs,0.71429
+38,Informações Semânticas de Palavras,nouns_ambiguity,2.72973
+39,Informações Semânticas de Palavras,verbs_ambiguity,9.9
+40,Medidas Descritivas,paragraphs,1
+41,Medidas Descritivas,sentences,9
+42,Medidas Descritivas,sentences_per_paragraph,9.0
+43,Medidas Descritivas,syllables_per_content_word,2.64865
+44,Medidas Descritivas,words,134
+45,Medidas Descritivas,words_per_sentence,14.88889
+46,Índices de leiturabilidade,flesch,63.89143

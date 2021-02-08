@@ -1,0 +1,1 @@
+positivo ou negativo? escreva um programa que leia repetidamente números inteiros digitados pelo teclado, até que o valor número seja inserido. para cada número lido, imprima a mensagem positivo , se ele for positivo. ou mensagem negativo , se ele for negativo. ignore o valor de parada número .

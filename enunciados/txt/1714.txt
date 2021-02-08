@@ -1,0 +1,1 @@
+soma da diagonal principal escreva um programa que tenha como entrada uma matriz quadrada de números reais e, como saída, imprima a soma dos elementos na diagonal principal, com duas casas de precisão .

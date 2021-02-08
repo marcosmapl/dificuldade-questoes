@@ -1,0 +1,44 @@
+﻿,Group,Metric,Value
+4,Coesão Referencial,adj_arg_ovl,1.75
+5,Coesão Referencial,adj_stem_ovl,2.75
+6,Coesão Referencial,arg_ovl,1.7
+7,Coesão Referencial,stem_ovl,2.4
+8,Coesão referencial,adjacent_refs,0.0
+9,Coesão referencial,anaphoric_refs,0.0
+10,Complexidade Sintática,words_before_main_verb,1.4
+11,Conectivos,add_neg_conn_ratio,0.00649
+12,Conectivos,add_pos_conn_ratio,0.03247
+13,Conectivos,and_ratio,0.03247
+14,Conectivos,cau_neg_conn_ratio,0.0
+15,Conectivos,cau_pos_conn_ratio,0.03247
+16,Conectivos,conn_ratio,0.07143
+17,Conectivos,if_ratio,0.0
+18,Conectivos,log_neg_conn_ratio,0.0
+19,Conectivos,log_pos_conn_ratio,0.02597
+20,Conectivos,logic_operators,0.03247
+21,Conectivos,negation_ratio,0.0
+22,Conectivos,tmp_neg_conn_ratio,0.0
+23,Conectivos,tmp_pos_conn_ratio,0.0
+24,Densidade de Padrões Sintáticos,mean_noun_phrase,6.65833
+25,Diversidade Lexical,ttr,0.52545
+26,Frequência de Palavras,cw_freq,250121.56989
+27,Frequência de Palavras,min_cw_freq,1494.6
+28,Informações Morfossintáticas de Palavras,adjective_ratio,0.07143
+29,Informações Morfossintáticas de Palavras,adverbs,0.01299
+30,Informações Morfossintáticas de Palavras,content_words,0.6039
+31,Informações Morfossintáticas de Palavras,function_words,0.3961
+32,Informações Morfossintáticas de Palavras,personal_pronouns,0.0
+33,Informações Morfossintáticas de Palavras,pronoun_ratio,0.03896
+34,Informações Morfossintáticas de Palavras,verbs,0.13636
+35,Informações Semânticas de Palavras,adjectives_ambiguity,5.1
+36,Informações Semânticas de Palavras,adverbs_ambiguity,2.5
+37,Informações Semânticas de Palavras,hypernyms_verbs,0.66667
+38,Informações Semânticas de Palavras,nouns_ambiguity,1.64912
+39,Informações Semânticas de Palavras,verbs_ambiguity,6.4
+40,Medidas Descritivas,paragraphs,1
+41,Medidas Descritivas,sentences,5
+42,Medidas Descritivas,sentences_per_paragraph,5.0
+43,Medidas Descritivas,syllables_per_content_word,2.96774
+44,Medidas Descritivas,words,154
+45,Medidas Descritivas,words_per_sentence,30.8
+46,Índices de leiturabilidade,flesch,25.30027

@@ -1,0 +1,1 @@
+dado de número faces escreva um programa que leia repetidamente o resultado do lançamento de um dado de seis faces: número , número , número , número , número ou número , até que o valor - número seja lido, encerrando o laço. como saída, determine quantas faces número foram sorteadas

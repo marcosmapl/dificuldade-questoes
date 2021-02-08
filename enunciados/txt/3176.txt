@@ -1,0 +1,1 @@
+contando vogais e consoantes escreva um programa que, dada uma string qualquer fornecida pelo usuário, imprima: a quantidade de vogais. a quantidade de consoantes.

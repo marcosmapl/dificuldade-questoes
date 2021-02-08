@@ -1,0 +1,1 @@
+ordenação crescente faça um programa que receba um vetor de números inteiros ordenado de forma decrescente, e a partir a entrada do usuário, imprima o mesmo vetor ordenado de forma crescente.

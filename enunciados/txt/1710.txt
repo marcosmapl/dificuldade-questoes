@@ -1,0 +1,1 @@
+média da turma em uma turma de ipc, as notas dos trabalhos dos diversos alunos são armazenadas em uma matriz, em que o elemento latex contém a j -ésima nota do i -ésimo aluno. escreva um programa que tenha como entrada uma matriz de notas . como saída, imprima a média de todos os trabalhos com duas casas decimais de precisão.

@@ -1,0 +1,1 @@
+maior elemento acima da diagonal principal escreva um programa que leia uma matriz quadrada formada por números reais. como saída, imprima o maior elemento que está acima da diagonal principal .

@@ -1,0 +1,1 @@
+série de maclaurin do cosseno hiperbólico o cosseno hiperbólico de um valor real x qualquer é dado pela seguinte série de maclaurin: latex escreva um programa que leia as seguintes variáveis: um número real x . um número inteiro k , a quantidade de termos da série. como saída, imprima o valor da série acima para o valor x e com k termos, com até oito casas decimais de precisão.

@@ -1,0 +1,44 @@
+﻿,Group,Metric,Value
+4,Coesão Referencial,adj_arg_ovl,32.5
+5,Coesão Referencial,adj_stem_ovl,34.75
+6,Coesão Referencial,arg_ovl,27.1
+7,Coesão Referencial,stem_ovl,28.6
+8,Coesão referencial,adjacent_refs,0.0
+9,Coesão referencial,anaphoric_refs,0.0
+10,Complexidade Sintática,words_before_main_verb,2.8
+11,Conectivos,add_neg_conn_ratio,0.0
+12,Conectivos,add_pos_conn_ratio,0.04292
+13,Conectivos,and_ratio,0.03433
+14,Conectivos,cau_neg_conn_ratio,0.0
+15,Conectivos,cau_pos_conn_ratio,0.03863
+16,Conectivos,conn_ratio,0.07725
+17,Conectivos,if_ratio,0.00858
+18,Conectivos,log_neg_conn_ratio,0.0
+19,Conectivos,log_pos_conn_ratio,0.03863
+20,Conectivos,logic_operators,0.0515
+21,Conectivos,negation_ratio,0.0
+22,Conectivos,tmp_neg_conn_ratio,0.0
+23,Conectivos,tmp_pos_conn_ratio,0.00429
+24,Densidade de Padrões Sintáticos,mean_noun_phrase,11.18052
+25,Diversidade Lexical,ttr,0.4091
+26,Frequência de Palavras,cw_freq,289292.76667
+27,Frequência de Palavras,min_cw_freq,10371.8
+28,Informações Morfossintáticas de Palavras,adjective_ratio,0.03433
+29,Informações Morfossintáticas de Palavras,adverbs,0.00858
+30,Informações Morfossintáticas de Palavras,content_words,0.64378
+31,Informações Morfossintáticas de Palavras,function_words,0.35622
+32,Informações Morfossintáticas de Palavras,personal_pronouns,0.0
+33,Informações Morfossintáticas de Palavras,pronoun_ratio,0.01717
+34,Informações Morfossintáticas de Palavras,verbs,0.11588
+35,Informações Semânticas de Palavras,adjectives_ambiguity,2.625
+36,Informações Semânticas de Palavras,adverbs_ambiguity,2.0
+37,Informações Semânticas de Palavras,hypernyms_verbs,0.8
+38,Informações Semânticas de Palavras,nouns_ambiguity,1.83146
+39,Informações Semânticas de Palavras,verbs_ambiguity,10.90909
+40,Medidas Descritivas,paragraphs,1
+41,Medidas Descritivas,sentences,5
+42,Medidas Descritivas,sentences_per_paragraph,5.0
+43,Medidas Descritivas,syllables_per_content_word,2.52667
+44,Medidas Descritivas,words,233
+45,Medidas Descritivas,words_per_sentence,46.6
+46,Índices de leiturabilidade,flesch,21.80639

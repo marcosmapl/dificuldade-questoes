@@ -1,0 +1,1 @@
+distância euclidiana a distância euclidiana d entre os pontos p igual (p número , p número , , p n ) e q igual (q número , q número , , q n ) é definida como: escreva um programa que leia dois vetores p e q. como saída, imprima a distância euclidiana d(p, q) com até quatro casas decimais de precisão.

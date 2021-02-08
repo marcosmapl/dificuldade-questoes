@@ -1,0 +1,44 @@
+﻿,Group,Metric,Value
+4,Coesão Referencial,adj_arg_ovl,0
+5,Coesão Referencial,adj_stem_ovl,0
+6,Coesão Referencial,arg_ovl,0
+7,Coesão Referencial,stem_ovl,0
+8,Coesão referencial,adjacent_refs,0
+9,Coesão referencial,anaphoric_refs,0
+10,Complexidade Sintática,words_before_main_verb,13.0
+11,Conectivos,add_neg_conn_ratio,0.0
+12,Conectivos,add_pos_conn_ratio,0.07273
+13,Conectivos,and_ratio,0.03636
+14,Conectivos,cau_neg_conn_ratio,0.0
+15,Conectivos,cau_pos_conn_ratio,0.05455
+16,Conectivos,conn_ratio,0.09091
+17,Conectivos,if_ratio,0.0
+18,Conectivos,log_neg_conn_ratio,0.0
+19,Conectivos,log_pos_conn_ratio,0.03636
+20,Conectivos,logic_operators,0.03636
+21,Conectivos,negation_ratio,0.0
+22,Conectivos,tmp_neg_conn_ratio,0.0
+23,Conectivos,tmp_pos_conn_ratio,0.0
+24,Densidade de Padrões Sintáticos,mean_noun_phrase,6.11111
+25,Diversidade Lexical,ttr,0.6
+26,Frequência de Palavras,cw_freq,231422.89744
+27,Frequência de Palavras,min_cw_freq,0.0
+28,Informações Morfossintáticas de Palavras,adjective_ratio,0.10909
+29,Informações Morfossintáticas de Palavras,adverbs,0.0
+30,Informações Morfossintáticas de Palavras,content_words,0.70909
+31,Informações Morfossintáticas de Palavras,function_words,0.29091
+32,Informações Morfossintáticas de Palavras,personal_pronouns,0.0
+33,Informações Morfossintáticas de Palavras,pronoun_ratio,0.01818
+34,Informações Morfossintáticas de Palavras,verbs,0.12727
+35,Informações Semânticas de Palavras,adjectives_ambiguity,1.33333
+36,Informações Semânticas de Palavras,adverbs_ambiguity,0
+37,Informações Semânticas de Palavras,hypernyms_verbs,1.75
+38,Informações Semânticas de Palavras,nouns_ambiguity,2.04
+39,Informações Semânticas de Palavras,verbs_ambiguity,4.16667
+40,Medidas Descritivas,paragraphs,1
+41,Medidas Descritivas,sentences,1
+42,Medidas Descritivas,sentences_per_paragraph,1.0
+43,Medidas Descritivas,syllables_per_content_word,2.33333
+44,Medidas Descritivas,words,55
+45,Medidas Descritivas,words_per_sentence,55.0
+46,Índices de leiturabilidade,flesch,20.73364

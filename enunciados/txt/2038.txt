@@ -1,0 +1,1 @@
+pesquisa de satisfação positivos um restaurante fez uma pesquisa de satisfação entre seus clientes e perguntou se o atendimento recebido foi satisfatório. os clientes respondiam sim ou nao . escreva um programa que leia repetidamente as respostas dos clientes até que o valor s seja lido, encerrando o laço. como saída, o programa deve determinar quantos clientes responderam sim .

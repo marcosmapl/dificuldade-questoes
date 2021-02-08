@@ -1,0 +1,1 @@
+resistência equivalente escreva um programa que leia o valor de três resistores (r número , r número e r número ) dispostos em paralelo, medidos em ohms (ω). como saída, imprima o valor da resistência equivalente (req) , expressa pela seguinte fórmula:

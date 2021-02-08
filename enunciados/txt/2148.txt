@@ -1,0 +1,1 @@
+lados e perímetro de um polígono em geometria, um polígono é uma figura fechada formada por segmentos de retas. escreva um script que leia um vetor de tamanho qualquer, representando as medidas dos lados de um polígono. como saída, imprima: o perímetro do polígono. a quantidade de lados maiores ou iguais a número .

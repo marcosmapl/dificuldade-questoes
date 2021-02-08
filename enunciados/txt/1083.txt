@@ -1,0 +1,1 @@
+três provas com média número arquiteclínio fez três provas neste período. escreva um programa que leia as três notas obtidas. como saída, imprima, nesta ordem: o valor da média aritmética das três notas, arredondado em até duas casas decimais. a mensagem aprovacao , caso a média seja igual ou superior a número ,0 , ou a mensagem reprovacao , caso contrário.

@@ -1,0 +1,1 @@
+quantas casas pretas? após o giro da roleta, uma bolinha pode cair em uma casa preta ou vermelha . escreva um programa que leia repetidamente a cor da casa, preta ou vermelha , onde cai a bolinha de uma roleta, até que o valor s seja lido, encerrando o laço. como saída, determine quantas vezes a bolinha caiu em uma casa preta .

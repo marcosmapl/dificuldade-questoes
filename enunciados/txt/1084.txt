@@ -1,0 +1,1 @@
+quatro provas com média número soraiadite fez quatro provas neste período. escreva um programa que leia as quatro notas obtidas. como saída, imprima, nesta ordem: o valor da média aritmética das quatro notas, arredondado em até uma casa decimal. a mensagem aprovado , caso a média seja igual ou superior a número ,0 , ou a mensagem reprovado , caso contrário.

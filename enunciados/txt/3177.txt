@@ -1,0 +1,1 @@
+contando vogais escreva um programa que, a partir de uma string qualquer fornecida pelo usuário, imprima a quantidade de cada vogal contida nessa string.

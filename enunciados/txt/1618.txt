@@ -1,0 +1,1 @@
+função polinomial escreva um programa que leia um vetor contendo os coeficientes de uma função polinomial. como saída, imprima a função polinomial por extenso, usando o caractere para simbolizar o expoente.
